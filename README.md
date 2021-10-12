@@ -13,3 +13,7 @@ Full Stack Developer | Cloud and Mobile Expert | Top Writer @Quora | Ex-Entrepre
 - 📫 How to reach me: [Twitter](https://twitter.com/abhi347), [Open Mentoring Group](http://happy2help.org.in/mentoring/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can solve a 3x3 Rubik cube in 5 mins 😎
+
+## Metrics
+
+![Metrics](./github-metrics.svg)
